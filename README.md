@@ -29,3 +29,7 @@ git add .
 git commit -m "Added my name to contributors"
 git push origin my-branch
 ```
+---
+## Connect with me 
+- Author: Dhruv Anand ([@dhruvnnd](https://github.com/dhruvnnd))
+- Email: ananddhruv29@gmail.com
