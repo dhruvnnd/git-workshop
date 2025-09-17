@@ -1,8 +1,8 @@
-# Git Workshop Playground 🚀
+# Git Workshop Playground
 
 Welcome to the Git Workshop! This repo is for practicing Git & GitHub basics.
 
-## 🛠️ Tasks for Students
+## Tasks for you guys
 
 1. Fork this repo and clone it locally.
 2. Create a **new branch** with your name.
@@ -14,13 +14,13 @@ Welcome to the Git Workshop! This repo is for practicing Git & GitHub basics.
 4. Commit your changes and push your branch.
 5. Open a **Pull Request** to this repo.
 
-## 🌱 Example Workflow
+## Example Workflow
 
 ```bash
 # Fork this repo on GitHub first
 
-git clone <your-fork-url>
-cd git-workshop-playground
+git clone https://github.com/dhruvnnd/git-workshop.git
+cd git-workshop
 
 git checkout -b my-branch
 # Make your changes
